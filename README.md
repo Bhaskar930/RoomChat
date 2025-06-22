@@ -55,9 +55,11 @@ Run the server:
 bash
 Copy code
 npm run dev
+```
 Frontend
-bash
+```bash
 Copy code
 cd Chat-App-Frontend
 npm install
 npm start
+```
